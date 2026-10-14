@@ -1,6 +1,18 @@
-﻿# MEDEASE 🛡️💊
+# MEDEASE 🛡️💊
 > **Read · Verify · Understand · Remember · Stay Safe**  
 > *A safety-aware prescription understanding and medication adherence assistant.*
+
+---
+
+## 🌐 Live Deployment
+- **Live Production URL**: [https://frontend-theta-ten-47.vercel.app](https://frontend-theta-ten-47.vercel.app)
+- **Deployment Platform**: Vercel (Edge & Serverless Next.js 16 Runtime)
+- **Status**: 🟢 Active & Publicly Accessible
+
+---
+
+## 📖 About MEDEASE
+MEDEASE is an intelligent, safety-first prescription understanding and medication adherence assistant designed to bridge the gap between complex doctor prescriptions and safe patient adherence. Unlike traditional systems that blindly trust AI, MEDEASE enforces a deterministic Backend Safety Gate that flags ambiguous handwriting and halts medication scheduling until verified by a human. The platform provides trilingual accessibility across English, Hindi, and Telugu, pairing voice reminders with dual-tone medical audio chimes and device haptic vibration alerts. Featuring interactive daily timeline tracking, automated adherence reporting, and integrated drug formulary insights, MEDEASE empowers patients and caregivers to take the right medicines at the right time without confusion.
 
 ---
 

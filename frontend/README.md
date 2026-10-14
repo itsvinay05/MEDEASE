@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MEDEASE Frontend 🛡️💊
+> **Safety-Aware Prescription Understanding & Medication Adherence Assistant**
+
+## 🌐 Live Deployment
+- **Production URL**: [https://frontend-theta-ten-47.vercel.app](https://frontend-theta-ten-47.vercel.app)
+
+## 📖 About
+MEDEASE is an intelligent, safety-first prescription understanding and medication adherence assistant designed to bridge the gap between complex doctor prescriptions and safe patient adherence. Unlike traditional systems that blindly trust AI, MEDEASE enforces a deterministic Backend Safety Gate that flags ambiguous handwriting and halts medication scheduling until verified by a human. The platform provides trilingual accessibility across English, Hindi, and Telugu, pairing voice reminders with dual-tone medical audio chimes and device haptic vibration alerts. Featuring interactive daily timeline tracking, automated adherence reporting, and integrated drug formulary insights, MEDEASE empowers patients and caregivers to take the right medicines at the right time without confusion.
+
+---
 
 ## Getting Started
 
